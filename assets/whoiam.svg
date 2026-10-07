@@ -19,7 +19,7 @@
                values="0;0;290;290;0;0" keyTimes="0;0.04;0.213;0.9;0.94;1"/>
     </rect>
   </clipPath>
-  <text x="163" y="86" font-size="15" fill="#FEFFFB" clip-path="url(#typing)">kubectl describe engineer jorge</text>
+  <text x="163" y="86" font-size="15" fill="#FEFFFB" clip-path="url(#typing)"> kubectl describe engineer jorge</text>
   <!-- typing caret that follows the reveal -->
   <rect y="72" width="8" height="18" fill="#02BAD5">
     <animate attributeName="x" dur="7.5s" repeatCount="indefinite"
@@ -40,9 +40,9 @@
   <g opacity="0"><animate attributeName="opacity" dur="7.5s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.349;0.376;0.92;1"/>
     <text x="28" y="252" font-size="14.5"><tspan fill="#02BAD5">Toolbelt   </tspan><tspan fill="#c9d1d9">Terraform, K8s, Helm, Docker, Linux</tspan></text></g>
   <g opacity="0"><animate attributeName="opacity" dur="7.5s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.373;0.4;0.92;1"/>
-    <text x="28" y="280" font-size="14.5"><tspan fill="#02BAD5">Currently  </tspan><tspan fill="#c9d1d9">Helping devolpers team</tspan></text></g>
+    <text x="28" y="280" font-size="14.5"><tspan fill="#02BAD5">Currently  </tspan><tspan fill="#c9d1d9">Devops & SRE Platform</tspan></text></g>
   <g opacity="0"><animate attributeName="opacity" dur="7.5s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.397;0.424;0.92;1"/>
-    <text x="28" y="308" font-size="14.5"><tspan fill="#02BAD5">Learning   </tspan><tspan fill="#c9d1d9"></tspan></text></g>
+    <text x="28" y="308" font-size="14.5"><tspan fill="#02BAD5">Learning   </tspan><tspan fill="#c9d1d9">CKA</tspan></text></g>
   <g opacity="0"><animate attributeName="opacity" dur="7.5s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.421;0.448;0.92;1"/>
     <text x="28" y="336" font-size="14.5"><tspan fill="#02BAD5">Fun fact   </tspan><tspan fill="#c9d1d9">Librería de CD para todos los equipos, tres clusters en Azure y una plataforma de gobernanza de IA</tspan></text></g>
   <g opacity="0"><animate attributeName="opacity" dur="7.5s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.445;0.472;0.92;1"/>
